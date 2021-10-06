@@ -1,3 +1,2 @@
 # Image-Compressor
-
 # Thumbnail Maker
